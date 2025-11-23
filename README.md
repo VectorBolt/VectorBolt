@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hey there, I'm Avneesh! 👋
+I'm an Engineering Physics undergrad at the University of Toronto.
 
-<!--
-**VectorBolt/VectorBolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website](https://img.shields.io/badge/Website-24292e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://avneeshverma.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avneesh-verma)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@avneeshverma_)
 
-Here are some ideas to get you started:
+**Currently:** 
+- ☢️ Working on the [RaX Collaboration](https://www.garciaruizlab.com/copy-of-neptune-project) at Harvard & MIT, where we're working on laser cooling and trapping radioactive molecules to probe fundamental physics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Previously:**
+- 🔭 Worked on the Gigapixel-class Balloon-borne Imaging Telescope ([GigaBIT](https://www.gigabitastro.com/)), a near-space telescope that will have 80x Hubble's field-of-view, with comparable resolution.
+- ⚙️ Worked on the mechanical engineering team of [Blue Sky Solar Racing](https://www.blueskysolar.org/), a UofT design team building solar cars to race across Australia.
+- 💡 Worked at the Optical Materials and Devices lab at the National University of Singapore (NUS), using lasers to measure the thicknesses of silicon wafers with micrometer resolution using low-coherence interferometry.
