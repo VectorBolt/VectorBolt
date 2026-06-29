@@ -6,7 +6,7 @@ I'm an Engineering Physics undergrad at the University of Toronto.
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@avneeshverma_)
 
 **Currently:** 
-- ☢️ Working on the [RaX Collaboration](https://www.garciaruizlab.com/copy-of-neptune-project) at Harvard & MIT, where we're working on laser cooling and trapping radioactive molecules to probe fundamental physics.
+- ☢️ Working on the [RaX Collaboration](https://www.garciaruizlab.com/copy-of-neptune-project) at Harvard & MIT, which aims to laser cool and trap radioactive molecules to probe fundamental physics.
 
 **Previously:**
 - 🔭 Worked on the Gigapixel-class Balloon-borne Imaging Telescope ([GigaBIT](https://www.gigabitastro.com/)), a near-space telescope that will have 80x Hubble's field-of-view, with comparable resolution.
